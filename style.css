@@ -66,8 +66,7 @@ h2 {
 }
 
 .logo {
-    width: 120px;
-    height: auto;
+    max-width: 150px;
     display: block;
-    margin: 0 auto 20px;
+    margin: 0 auto 30px auto;
 }
