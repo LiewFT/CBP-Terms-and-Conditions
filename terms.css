@@ -96,8 +96,9 @@ nav a:hover {
 html {
     scroll-behavior: smooth;
 }
+
 .banner {
     background-color: #fdfcfc;
     width: 100%;
-    
+
 }
